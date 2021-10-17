@@ -33,11 +33,9 @@ A fingerprint visualisation containing the polarity and subjectivity values of e
 A visualisation program creates a scatter plot showing the frequency counts of the top 20 keywords per text type. The different text types are distinguished through colour coding, and the length of the keywords is also visualised through the size of the dot. This visualisation shows all of the different aspects of the data that was collected in the CSV file: the keyword, its ranking, frequency, length, and text type. All of the data relating to one point can be viewed by hovering over each plotted point on the graph when the graph is viewed in-browser.
 
 # Visualisation examples
-![RockArt_Scotland_all_text_polarity_fingerprint](https://user-images.githubusercontent.com/81825476/137632947-17d031a9-5872-4311-88cf-54fddc30afe7.png)![RockArt_Scotland_all_text_subjectivity_fingerprint](https://user-images.githubusercontent.com/81825476/137632959-a6d5500d-f227-43f8-92de-610de9cb6129.png)
 ![RockArt_Scotland_polarity_key](https://user-images.githubusercontent.com/81825476/137632961-a912e2e8-90c2-44c5-8a88-758e7d1108fd.png)
 ![RockArt_Scotland_subjectivity_key](https://user-images.githubusercontent.com/81825476/137632962-7b482c55-4451-4f4a-979c-4e03227110ae.png)
 
+![RockArt_Scotland_all_text_polarity_fingerprint](https://user-images.githubusercontent.com/81825476/137632947-17d031a9-5872-4311-88cf-54fddc30afe7.png)![RockArt_Scotland_all_text_subjectivity_fingerprint](https://user-images.githubusercontent.com/81825476/137632959-a6d5500d-f227-43f8-92de-610de9cb6129.png)
+
 ![RockArt_Scotland_top_20_words_vis](https://user-images.githubusercontent.com/81825476/137632968-7e920420-b65c-4413-9fa8-30bbd697a6fd.png)
-
-
-
